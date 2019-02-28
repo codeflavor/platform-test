@@ -1,0 +1,9 @@
+---
+name: platform-test
+components:
+  - alias: test1
+    url: git@github.com:codeflavor/test1.git
+  - alias: test2
+    url: git@github.com:codeflavor/test2.git
+  - alias: test3
+    url: git@github.com:codeflavor/test3.git

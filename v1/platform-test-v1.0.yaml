@@ -1,0 +1,18 @@
+---
+version: v1.0.0
+
+components:
+  - alias: test1
+    location: git@github.com:codeflavor/test1
+    refs: tags/v1.0.0
+    hash: 9701d9f3a555067f4a0fa5b61f9b7eafa78de9c2
+    
+  - alias: test2
+    location: git@github.com:codeflavor/test2
+    refs: tags/v1.0.0
+    hash: 854bf0434606da01b030e24ead572bc4196b4d3a
+    
+  - alias: test3
+    location: git@github.com:codeflavor/test3
+    refs: tags/v1.0.0
+    hash: 5af8977d22913560b64c0c2b6001f914d097146b
